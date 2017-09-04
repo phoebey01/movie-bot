@@ -1,0 +1,24 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "a chatbot that recommends movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyang08/movie-bot.git"
+  },
+  "keywords": "chatbot",
+  "author": "Phoebe Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyang08/movie-bot/issues"
+  },
+  "homepage": "https://github.com/yyang08/movie-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "restify": "^5.1.0"
+  }
+}
